@@ -2,7 +2,7 @@
 Learn how to implement Firebase Authentication into an Android app
 
 ## Project Presentation Below
-[Video(!https://nait.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f8f243f-f080-416d-9ad9-adfb014e1921)
+[Video](!https://nait.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f8f243f-f080-416d-9ad9-adfb014e1921)
 
 ## Project Documentation
 

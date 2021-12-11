@@ -7,7 +7,8 @@ Learn how to implement Firebase Authentication into an Android app
 ## Project Documentation
 
 **Step 1: Creation** <br/>
-I created a new android porject in java and placed it in this repo.
+I created a new android project in java 
+I also needed to create the firebase project that I will be using.
 
 **Step 2: Dependancies** <br/>
 Add Firebase Authentication to dependancies in build.gradle (Module).
